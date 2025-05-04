@@ -1,0 +1,6 @@
+@NotesByDayApi_HostAddress = http://localhost:5142
+
+GET {{NotesByDayApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
